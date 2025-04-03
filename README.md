@@ -31,9 +31,7 @@
 </br>
 </br>
 
-  <div align="center">
 # Linguaggi e Strumenti 👨‍💻 🛠
-  <div/>
 </br>
 
 <div align="center">
