@@ -49,19 +49,20 @@
 
 ## 🔗 **Contattami**
 <div align="center">
+  
   <a href="[https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/michelangelo-pontrelli-369415276/)" target="_blank">
     <img src="assets/linkedin.png" width="70">
   </a>
-  <a href="https://github.com/Michelangelo-Pontrelli" target="_blank">
-    <img src="assets/github.png" width="70">
-  </a>
+ 
   <a href="mailto:pontrellim99@gmail.com">
     <img src="assets/gmail.png" width="70">
   </a>
+  
 </div>
 
 <br><br>
 
 <div align="center">
   <h2 style="font-size: 36px; font-family: 'Comic Sans MS', cursive;">👋 Grazie per la visita!</h2>
+  <img src="assets/erne.png">
 </div>
