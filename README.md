@@ -51,7 +51,7 @@
 ## 🔗 **Contattami**
 <div align="center">
   
-  <a href="[https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/michelangelo-pontrelli-369415276/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/michelangelo-pontrelli-369415276/)" target="_blank">
     <img src="assets/linkedin.png" width="70" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);"ì>
   </a>
  
