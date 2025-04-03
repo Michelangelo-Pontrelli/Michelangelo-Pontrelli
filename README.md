@@ -36,12 +36,12 @@
 <h1 style="font-size: 40px; font-weight: bold; font-family: 'Courier New', monospace;">Linguaggi e Strumenti 👨‍💻 🛠</h1>
 
 <div align="center">
-  <img src="assets/java.png" width="90">
-  <img src="assets/bash.png" width="90">
-  <img src="assets/pc.png" width="90">
-  <img src="assets/gmail.png" width="90">
-  <img src="assets/linkedin.png" width="90">
-  <img src="assets/playstation@3x.png" width="90">
+  <img src="assets/java.png" width="90" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  <img src="assets/bash.png" width="90" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  <img src="assets/pc.png" width="90" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  <img src="assets/gmail.png" width="90" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  <img src="assets/linkedin.png" width="90" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  <img src="assets/playstation@3x.png" width="90" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
 </div>
 
 <br><br>
@@ -52,11 +52,11 @@
 <div align="center">
   
   <a href="[https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/michelangelo-pontrelli-369415276/)" target="_blank">
-    <img src="assets/linkedin.png" width="70">
+    <img src="assets/linkedin.png" width="70" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);"ì>
   </a>
  
   <a href="mailto:pontrellim99@gmail.com">
-    <img src="assets/gmail.png" width="70">
+    <img src="assets/gmail.png" width="70" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
   </a>
   
 </div>
