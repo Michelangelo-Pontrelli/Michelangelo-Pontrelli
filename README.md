@@ -2,7 +2,7 @@
 # Ciao a tutti! 👋
 
 <div align="center">
-<img height="100" width="300" src="assets/first.jpeg">
+<img height="100" width="300" src="assets/head.jpeg">
 </div>
 
 </br>
