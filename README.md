@@ -45,7 +45,7 @@
 </br>
 </br>
 <div align="center">
-#  👋
+ 👋👋👋👋👋👋👋👋👋👋
   <img src="assets/eren.png">
 </div>
 
