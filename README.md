@@ -13,7 +13,7 @@
 
 ### - Sono Michelangelo Pontrelli, un appassionato di sviluppo web e back-end dal Sud Italia. 
 
-<img height="400" width="500" alt="GIF" align="right" src="https://picsum.photos/seed/picsum/200/300">
+<img height="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
 
 ### - Cosa sto imparando:
 - ✨ Java, Spring, JPA, MicroService, Mysql;
