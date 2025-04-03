@@ -18,7 +18,7 @@
 
 <img height="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
 
-### - Cosa sto imparando:
+### - Cosa sto imparando
 - ✨ Java, Spring, JPA, MicroService, Mysql;
 - ✨ Ottimizzazione database, utilizzo di Design Pattern;
 
@@ -31,7 +31,9 @@
 </br>
 </br>
 
-# Linguaggi e Strumenti 👨‍💻 🛠:
+  <div align="center">
+# Linguaggi e Strumenti 👨‍💻 🛠
+  <div/>
 </br>
 
 <div align="center">
