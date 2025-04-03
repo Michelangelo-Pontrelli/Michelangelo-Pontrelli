@@ -2,7 +2,7 @@
 # Ciao a tutti! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" src="https://picsum.photos/200/300?grayscale">
+<img height="300" width="700" alt="GIF" src="https://picsum.photos/seed/picsum/200/300">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - Sono Michelangelo Pontrelli, un appassionato di sviluppo web e back-end dal Sud Italia. 
 
-<img height="400" width="500" alt="GIF" align="right" src="https://picsum.photos/200/300?grayscale">
+<img height="400" width="500" alt="GIF" align="right" src="https://picsum.photos/seed/picsum/200/300">
 
 ### - Cosa sto imparando:
 - ✨ Java, Spring, JPA, MicroService, Mysql;
