@@ -31,23 +31,64 @@
   <li>📖 Lettura di articoli tech</li>
 </ul>
 
-<br><br><br>
+<br><br>
 
-<h1 style="font-size: 40px; font-weight: bold; font-family: 'Courier New', monospace;">Linguaggi e Strumenti 👨‍💻 🛠</h1>
-<br>
+---
 
+## 🎨 **Progetti**
 <div align="center">
-  <img src="assets/java.png">
-  <img src="assets/bash.png">
-  <img src="assets/pc.png">
-  <img src="assets/gmail.png">
-  <img src="assets/linkedin.png">
-  <img src="assets/playstation@3x.png">
+  <h3 style="font-size: 28px; font-family: 'Courier New', monospace;">Alcuni dei miei lavori:</h3>
 </div>
 
-<br><br><br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/progetto1.png" width="300px"><br>
+      <strong>Nome Progetto 1</strong><br>
+      <a href="https://github.com/tuo-username/progetto1">🔗 GitHub Repo</a>
+    </td>
+    <td align="center">
+      <img src="assets/progetto2.png" width="300px"><br>
+      <strong>Nome Progetto 2</strong><br>
+      <a href="https://github.com/tuo-username/progetto2">🔗 GitHub Repo</a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+---
+
+<h1 style="font-size: 40px; font-weight: bold; font-family: 'Courier New', monospace;">Linguaggi e Strumenti 👨‍💻 🛠</h1>
 
 <div align="center">
-  <h1 style="font-size: 48px; font-family: 'Comic Sans MS', cursive;">👋👋👋👋👋👋👋👋👋👋</h1>
-  <img src="assets/eren.png">
+  <img src="assets/java.png" width="50">
+  <img src="assets/bash.png" width="50">
+  <img src="assets/pc.png" width="50">
+  <img src="assets/gmail.png" width="50">
+  <img src="assets/linkedin.png" width="50">
+  <img src="assets/playstation@3x.png" width="50">
+</div>
+
+<br><br>
+
+---
+
+## 🔗 **Contattami**
+<div align="center">
+  <a href="[https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/michelangelo-pontrelli-369415276/)" target="_blank">
+    <img src="assets/linkedin.png" width="40">
+  </a>
+  <a href="https://github.com/Michelangelo-Pontrelli" target="_blank">
+    <img src="assets/github.png" width="40">
+  </a>
+  <a href="mailto:pontrellim99@gmail.com">
+    <img src="assets/gmail.png" width="40">
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h2 style="font-size: 36px; font-family: 'Comic Sans MS', cursive;">👋 Grazie per la visita!</h2>
 </div>
