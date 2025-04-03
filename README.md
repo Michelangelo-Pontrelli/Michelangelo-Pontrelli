@@ -44,8 +44,10 @@
 </br>
 </br>
 </br>
-
+<div align="center">
 #  👋
+  <img src="assets/eren.png">
+</div>
 
 <img src="assets/eren.png">
 
