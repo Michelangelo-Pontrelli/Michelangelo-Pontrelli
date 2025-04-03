@@ -49,7 +49,5 @@
   <img src="assets/eren.png">
 </div>
 
-<img src="assets/eren.png">
-
 
 
