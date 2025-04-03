@@ -35,28 +35,6 @@
 
 ---
 
-## 🎨 **Progetti**
-<div align="center">
-  <h3 style="font-size: 28px; font-family: 'Courier New', monospace;">Alcuni dei miei lavori:</h3>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/progetto1.png" width="300px"><br>
-      <strong>Nome Progetto 1</strong><br>
-      <a href="https://github.com/tuo-username/progetto1">🔗 GitHub Repo</a>
-    </td>
-    <td align="center">
-      <img src="assets/progetto2.png" width="300px"><br>
-      <strong>Nome Progetto 2</strong><br>
-      <a href="https://github.com/tuo-username/progetto2">🔗 GitHub Repo</a>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
 ---
 
 <h1 style="font-size: 40px; font-weight: bold; font-family: 'Courier New', monospace;">Linguaggi e Strumenti 👨‍💻 🛠</h1>
