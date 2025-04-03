@@ -32,4 +32,7 @@
 # Linguaggi e Strumenti 👨‍💻 🛠:
 </br>
 
+<img height="400" width="500" align="right" src="assets/java.png">
+
+
 
