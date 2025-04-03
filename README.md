@@ -1,4 +1,4 @@
-<div align="center" font-family ='Courier New' >
+<div align="center" style= "bold>
 # Ciao a tutti! 👋
 </div>
 
