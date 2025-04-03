@@ -2,7 +2,7 @@
 # Ciao a tutti! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" src="https://picsum.photos/seed/picsum/200/300">
+<img height="300" width="700" alt="GIF" src="assets/first.jpeg">
 </div>
 
 </br>
