@@ -1,4 +1,4 @@
-<div align="center" style= "bold>
+<div align="center" style= "bold">
 # Ciao a tutti! 👋
 </div>
 
