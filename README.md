@@ -1,7 +1,7 @@
 
-# Ciao a tutti! 👋
 
 <div align="center">
+# Ciao a tutti! 👋
   <img height="400" width="500" align="center"src="assets/daidai.jpeg">
 
 </div>
@@ -9,8 +9,9 @@
 </br>
 </br>
 </br>
-
-# Su di me 💬 :
+<div align="center">
+  Su di me 💬 
+</div>
 
 ### - Sono Michelangelo Pontrelli, un appassionato di sviluppo web e back-end dal Sud Italia. 
 
@@ -19,8 +20,9 @@
 ### - Cosa sto imparando:
 - ✨ Java, Spring, JPA, MicroService, Mysql;
 - ✨ Ottimizzazione database, utilizzo di Design Pattern;
-
-### - Hobbies :
+<div align="center">
+### - Hobbies 
+  <div/>
 - 🎮 Appassionato di videogiochi
 - 💻 Sviluppo di siti web
 - 📖 Lettura di articoli tech
