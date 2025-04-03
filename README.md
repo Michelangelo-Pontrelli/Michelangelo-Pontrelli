@@ -1,7 +1,8 @@
-
-
 <div align="center">
 # Ciao a tutti! 👋
+</div>
+
+<div align="center">
   <img height="400" width="500" align="center"src="assets/daidai.jpeg">
 
 </div>
