@@ -31,6 +31,4 @@
 # Linguaggi e Strumenti 👨‍💻 🛠:
 </br>
 
-<p align="center">
-
 
