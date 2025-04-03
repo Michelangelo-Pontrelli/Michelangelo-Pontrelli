@@ -64,5 +64,5 @@
 
 <div align="center">
   <h2 style="font-size: 36px; font-family: 'Comic Sans MS', cursive;">👋 Grazie per la visita!</h2>
-  <img src="assets/erne.png">
+  <img src="assets/eren.png">
 </div>
