@@ -20,12 +20,11 @@
 ### - Cosa sto imparando:
 - ✨ Java, Spring, JPA, MicroService, Mysql;
 - ✨ Ottimizzazione database, utilizzo di Design Pattern;
-<div align="center">
+
 ### - Hobbies 
-  <div/>
-- 🎮 Appassionato di videogiochi
-- 💻 Sviluppo di siti web
-- 📖 Lettura di articoli tech
+- 🎮 Appassionato di videogiochi<br/>
+- 💻 Sviluppo di siti web<br/>
+- 📖 Lettura di articoli tech<br/>
 
 </br>
 </br>
