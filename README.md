@@ -2,7 +2,7 @@
 # Ciao a tutti! 👋
 
 <div align="center">
-  <img height="400" width="500" alt="GIF" align="center"src="assets/1936.gif">
+  <img height="400" width="500" align="center"src="assets/daidai.jpeg">
 
 </div>
 
