@@ -13,7 +13,8 @@
 </div>
 
 <h3 style="font-size: 24px; font-family: 'Georgia', serif;">
-  - Sono Michelangelo Pontrelli, un appassionato di sviluppo web e back-end dal Sud Italia.
+  Sono
+  <strong> Michelangelo Pontrelli </strong> un appassionato di sviluppo web e back-end dal Sud Italia.
 </h3>
 
 <img height="270" width="380" alt="GIF" align="right" src="assets/1936.gif">
