@@ -2,7 +2,9 @@
 # Ciao a tutti! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" src="assets/head.jpeg">
+  <video width="320" height="240" controls>
+      <source src="assets/_.jpeg" type="video/mp4">
+  </video>
 </div>
 
 </br>
