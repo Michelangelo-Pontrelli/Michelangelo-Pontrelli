@@ -33,8 +33,21 @@
 </br>
 
 <div align="center">
-<img src="assets/java.png">
+  <img src="assets/java.png">
+  <img src="assets/bash.png">
+  <img src="assets/pc.png">
+  <img src="assets/gmail.png">
+  <img src="assets/linkedin.png">
+  <img src="assets/playstation@3x.png">
 </div>
+
+</br>
+</br>
+</br>
+
+#  👋
+
+<img src="assets/eren.png">
 
 
 
